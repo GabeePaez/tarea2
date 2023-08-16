@@ -1,17 +1,13 @@
 header{
     position: relative;
-<<<<<<< Updated upstream
-    left: 200px;
-}
-article{
-    position: absolute;
-    top: 0;
-}
-=======
 }
 .h2c{
     position: relative;
     left: 700px;
+}
+section{
+    position: absolute;
+    
 }
 article{
     position: absolute;
@@ -69,4 +65,3 @@ body{
 .emaill{
     color:aqua
 }
->>>>>>> Stashed changes
